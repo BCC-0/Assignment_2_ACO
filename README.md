@@ -1,9 +1,5 @@
-[x] - Question 1-6: Ivan
-
-[x] - Question 7-10 and question 19-21: Bram
-
-[x] - Question 11-14: Shi-Yan
-
-[x] - Question 15-17: Georgi
-
-[x] - Question 22: Everyone
+- [ ] Question 1-6: Ivan
+- [ ] Question 7-10 and 19-21: Bram
+- [ ] Question 11-14: Shi-Yan
+- [ ] Question 15-17: Georgi
+- [ ] Question 22: Everyone
