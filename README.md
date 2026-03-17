@@ -1,6 +1,6 @@
 - [X] Question 1-6: Ivan
 - [X] Question 7-10: Bram
-- [ ] Question 11-14: Shi-Yan
+- [X] Question 11-14: Shi-Yan
 - [ ] Question 15-17: Georgi
 - [ ] Question 19-21: Bram
 - [ ] Question 22: Everyone
