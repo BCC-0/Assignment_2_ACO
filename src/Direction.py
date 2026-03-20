@@ -16,3 +16,19 @@ class Direction(enum.Enum):
     @classmethod
     def dir_to_int(cls, dir):
         return dir.value
+
+
+    @staticmethod
+    def from_coords(start, end):
+        dx = end.x - start.x
+        dy = end.y - start.y
+        if dx == 1 and dy == 0:
+            return Direction.east
+        elif dx == -1 and dy == 0:
+            return Direction.west
+        elif dx == 0 and dy == 1:
+            return Direction.south
+        elif dx == 0 and dy == -1:
+            return Direction.north
+        else:
+            raise ValueError(f"Invalid direction coordinates: start={start}, end={end}")
